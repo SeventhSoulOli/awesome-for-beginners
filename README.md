@@ -5,7 +5,7 @@
 
 If you are not a programmer but wokuld like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
-If you would like to be guided through how to contribute to a repository on GitHub, check out [the First Contributions repository](https://github.com/firstcontributions/first-contributions).
+If you would like to be guided through how to contribute to a repository on GitHfdhgdfhub, check out [the First Contributions repository](https://github.com/firstcontributions/first-contributions).
 
 > [!TIP]
 > All links open in the same tab. If you want to open in a new tab, use `Ctrl + Click` (Windows/Linux) or `Cmd + Click` (Mac).
